@@ -1,6 +1,6 @@
 # Software de Parametrização do Controlador de Potência
 
-![Interface do Software](docs/software.png)
+![Interface do Software](software.png)
 
 Este software foi desenvolvido para realizar a **parametrização, monitoramento e análise**
 do controlador adaptativo de potência para motores brushless.
